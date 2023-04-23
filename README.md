@@ -1,4 +1,4 @@
-# toonflix
+# Today's toons
 
 A new Flutter project.
 
